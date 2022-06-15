@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BadrBelkadi
 - 👀 I’m interested in Computer science and Software engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me : Badrdinbelkadi@gmail.com
 
 <!---
